@@ -31,16 +31,7 @@ body:
       description: "使用的设备型号"
       multiple: true
       options:
-        - RaspberryPi3
-        - RaspberryPi4
-        - RaspberryPi5
         - x86_64
-        - R68S
-        - NanoPi R2S
-        - NanoPi R4S
-        - NanoPi R5C
-        - NanoPi R5S
-        - OrangePi R1 Plus
     validations:
       required: true
   - type: input
